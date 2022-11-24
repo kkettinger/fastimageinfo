@@ -1,4 +1,4 @@
-# fastimageinfo ![build](https://github.com/hberg539/fastimageinfo/actions/workflows/go.yml/badge.svg) [![Go Reference](https://pkg.go.dev/badge/github.com/hberg539/fastimageinfo.svg)](https://pkg.go.dev/github.com/hberg539/fastimageinfo)
+# fastimageinfo ![build](https://github.com/kkettinger/fastimageinfo/actions/workflows/go.yml/badge.svg) [![Go Reference](https://pkg.go.dev/badge/github.com/kkettinger/fastimageinfo.svg)](https://pkg.go.dev/github.com/kkettinger/fastimageinfo)
 fastimageinfo is a go module for fetching image type, width and height without reading the whole file.
 
 ## Install
