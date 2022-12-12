@@ -1,3 +1,3 @@
-module github.com/hberg539/fastimageinfo
+module github.com/kkettinger/fastimageinfo
 
 go 1.11

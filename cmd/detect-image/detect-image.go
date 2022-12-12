@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/hberg539/fastimageinfo"
+	"github.com/kkettinger/fastimageinfo"
 	"os"
 )
 

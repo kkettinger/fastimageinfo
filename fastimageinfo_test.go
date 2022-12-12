@@ -1,7 +1,7 @@
 package fastimageinfo
 
 import (
-	"github.com/hberg539/fastimageinfo/parser"
+	"github.com/kkettinger/fastimageinfo/parser"
 	"testing"
 )
 

@@ -2,7 +2,7 @@ package fastimageinfo
 
 import (
 	"bytes"
-	"github.com/hberg539/fastimageinfo/parser"
+	"github.com/kkettinger/fastimageinfo/parser"
 	"io"
 	"os"
 )
